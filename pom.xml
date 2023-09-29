@@ -18,7 +18,7 @@
 	<sonar.login>7e3917e656daf95049669129f02db2606a271df4</sonar.login>
 	
   </properties>
-  </properties>
+  
 
   <dependencies>
     <dependency>
